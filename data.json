@@ -1,0 +1,38 @@
+{
+    "inventory": [
+        {
+            "id": "67fd0ecd27b93",
+            "name": "BENGLURU CHELLENGERS",
+            "category": "cricket",
+            "quantity": 11,
+            "price": 10000000,
+            "supplier": "vijye malya",
+            "last_updated": "2025-04-14 15:34:05"
+        },
+        {
+            "id": "67fd0f19669bd",
+            "name": "csk",
+            "category": "cricket",
+            "quantity": 11,
+            "price": 1,
+            "supplier": "Suman",
+            "last_updated": "2025-04-14 15:35:21"
+        },
+        {
+            "id": "67fd0f3910773",
+            "name": "srh",
+            "category": "cricket",
+            "quantity": 11,
+            "price": 1000000,
+            "supplier": "Kavya",
+            "last_updated": "2025-04-14 15:35:53"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "user123"
+        }
+    ]
+}
