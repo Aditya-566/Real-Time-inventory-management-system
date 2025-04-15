@@ -26,6 +26,24 @@
             "price": 1000000,
             "supplier": "Kavya",
             "last_updated": "2025-04-14 15:35:53"
+        },
+        {
+            "id": "67fd1829847bc",
+            "name": "parshant",
+            "category": "bro",
+            "quantity": 1,
+            "price": 100000,
+            "supplier": "him",
+            "last_updated": "2025-04-14 16:14:01"
+        },
+        {
+            "id": "67fd18fb7e0c1",
+            "name": "Bansh",
+            "category": "bro",
+            "quantity": 1,
+            "price": 1100000,
+            "supplier": "him",
+            "last_updated": "2025-04-14 16:17:31"
         }
     ],
     "users": [
